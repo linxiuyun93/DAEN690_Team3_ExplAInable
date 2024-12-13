@@ -3,7 +3,7 @@
 ## **Project Overview**
 The Explainable AI Construct (XAIC) project is built upon the innovative framework proposed by **Dr. Curt**, Owner and Lead Researcher at Human-Cyber Performance Tech, LLC. With a strong background in psychology, research, and system design, Dr. Curt specializes in aligning advanced technologies with human-centric needs.
 
-This project addresses critical challenges in implementing Explainable AI (XAI) in workplaces by focusing on human-centered factors. The XAIC framework integrates four key components:
+This project addresses challenges in implementing Explainable AI (XAI) in workplaces by focusing on human-centered factors. The XAIC framework integrates four key components:
 - **Algorithm Findings (AF):** Categorizing work activities into machine learning algorithms.
 - **Ability to Abstract (AA):** Assessing workers’ reasoning skills and their alignment with AI systems.
 - **Data Type Understanding (DTU):** Linking data types to task descriptions for better contextual understanding.
